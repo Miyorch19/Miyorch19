@@ -87,8 +87,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miyorch19&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyorch19&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyorch19&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" width="60%" />
 </p>
 
 <br/>
