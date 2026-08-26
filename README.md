@@ -1,5 +1,5 @@
-<h1 align="center">Jorge M.</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por crear soluciones web con Laravel</h3>
+<h1 align="center">Jorge Aldair.</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A63D2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Blade;Aprendiendo+cada+d%C3%ADa+algo+nuevo;Construyendo+proyectos+reales" alt="Typing SVG" />
