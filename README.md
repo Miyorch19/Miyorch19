@@ -79,7 +79,7 @@
   <a href="https://github.com/Miyorch19/Gelato_App"><img src="https://img.shields.io/badge/-Gelato__App-000000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Miyorch19/E-commerce"><img src="https://img.shields.io/badge/-E--commerce-000000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Miyorch19/LaravelForoDeploy"><img src="https://img.shields.io/badge/-LaravelForoDeploy-000000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Miyorch19/Restaurante_demo"><img src="https://img.shields.io/badge/-Restaurante__demo-000000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Miyorch19/Restaurante_DM.git"><img src="https://img.shields.io/badge/-Restaurante_DM-000000?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
