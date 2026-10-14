@@ -4,7 +4,7 @@
 
 <br/>
 
-### Languages
+### Lenguajes
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -41,7 +41,7 @@
 
 <br/>
 
-### Databases & Tools
+### Bases de datos y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-### Other Tools
+### Otras herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Stripe-000000?style=flat&logo=stripe&logoColor=635BFF" />
@@ -73,7 +73,7 @@
 
 <br/>
 
-### Featured Projects
+### Projectos destacados
 
 <p align="left">
   <a href="https://github.com/Miyorch19/Gelato_App"><img src="https://img.shields.io/badge/-Gelato__App-000000?style=flat&logo=github&logoColor=white" /></a>
@@ -84,7 +84,7 @@
 
 <br/>
 
-### GitHub Stats
+### Estadísticas de Github
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyorch19&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" width="60%" />
